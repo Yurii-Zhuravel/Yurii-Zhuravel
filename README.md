@@ -17,6 +17,6 @@
 6) [UCranePlayer](https://apps.apple.com/ua/app/ucraneplayer/id950047624) - offline audio player, SwiftUI, TCA [iOS].
 
 ## App/Game Publisher
-- Apple Developer account - 5 iOS apps and 1 macOS app (native and flutter);
-- Google Play Developer account - 1 Android app (flutter);
-- Microsoft Partner Center account - 1 Windows app (flutter).
+- [Apple](https://apps.apple.com/ua/developer/yuriy-zhuravel/id950047623) Developer account - 5 iOS apps and 1 macOS app (native and flutter);
+- [Google](https://play.google.com/store/apps/developer?id=Yurii+Zhuravel) Play Developer account - 1 Android app (flutter);
+- [Microsoft](https://www.microsoft.com/store/apps/9N0SZVRMNRTR) Partner Center account - 1 Windows app (flutter).
