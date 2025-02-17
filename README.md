@@ -5,7 +5,7 @@
 - recently started working with Flutter cross-platform apps;
 - worked for prominent IT companies in Ukraine: SoftServe, ELEKS and CoreValue/Avenga;
 - freelancing experience;
-- created and published my own mobile card game - [Game1000](https://apps.apple.com/ua/app/game1000/id1194152660), highly ranked and available on the App Store (4.6/5) and Mac App Store (4.8/5);
+- created and published my own mobile card game - [Game1000](https://apps.apple.com/ua/app/game1000/id1194152660), highly ranked and available on the App Store (4.6/5) and Mac App Store (4.7/5);
 - author of another 3 apps, 1 game and 1 macOS tool for devs.
 
 ## Portfolio
